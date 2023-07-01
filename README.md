@@ -16,15 +16,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/Naereen/badges
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+https://github.com/alexandresanlim/Badges4-README.md-Profile#-design-
 -->
 
 &nbsp;
 
 **About me:**
 
-- 🔭 I love science and technologies.
+- 🔭 I love science and technology.
 - 🌱 I’m currently learning computer vision and AI.
--  :zap: In my free time I like to travel around the globe.
+- ⚡ In my free time, I like to travel around the globe.
 
 <div id="badges" align="center">
 <!--   <a href="your-django-URL">
@@ -37,6 +42,15 @@ Here are some ideas to get you started:
   
   <a href="your-javascript-URL">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
+  </a>
+
+    
+  <a href="your-Illustrator-URL">
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  </a>
+
+  <a href="your-Photoshop-URL">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
   </a>
   
  <!--  <a href="your-kali-URL">
@@ -61,6 +75,14 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vislupus&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vislupus&theme=light&theme=vision-friendly-light)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vislupus&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vislupus&layout=compact&theme=vision-friendly-light)](https://github.com/vislupus/github-readme-stats)
+
+<!--
+[![Vislupus's github trophy](https://github-profile-trophy.vercel.app/?username=vislupus&row=1)](https://github.com/vislupus/github-profile-trophy)
+
+[![Vislupus's github stats](https://github-readme-stats.vercel.app/api?username=vislupus&theme=vision-friendly-light)](https://github.com/vislupus/github-readme-stats)
+
+[![Vislupus's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vislupus&theme=vision-friendly-light)](https://github.com/vislupus/github-readme-stats)
+-->

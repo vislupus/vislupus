@@ -84,9 +84,13 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 </div>
 
 ### :fire: My Stats :
+<div id="badges" align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vislupus&theme=light&theme=vision-friendly-light)](https://git.io/streak-stats)
 
 [![Vislupus's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vislupus&layout=compact&theme=vision-friendly-light)](https://github.com/vislupus/github-readme-stats)
+
+</div>
 
 <!--
 [![Vislupus's github trophy](https://github-profile-trophy.vercel.app/?username=vislupus&row=1)](https://github.com/vislupus/github-profile-trophy)

@@ -39,6 +39,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile#-design-
 
 ![](https://komarev.com/ghpvc/?username=vislupus&color=blueviolet)
 
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vscode,linux,postgres,mysql,docker,django)](https://skillicons.dev)
+
 https://github.com/Ileriayo/markdown-badges
 https://dev.to/envoy_/150-badges-for-github-pnk
 

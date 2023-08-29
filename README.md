@@ -72,8 +72,8 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 **About me:**
 
 - 🔭 I'm passionate about science and technology.
-- 🌱 I'm currently learning django and AI.
-- ⚡ In my free time, I like to travel around the globe.
+- 🌱 I'm currently learning Django and AI.
+- ⚡ In my free time, I like to travel around the world.
 
 <div id="badges" align="center">
     <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
